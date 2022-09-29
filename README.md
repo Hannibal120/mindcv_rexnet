@@ -1,4 +1,4 @@
-# mindcv_rexnet
+# rexnet
 This repo is to implement rexnet using [MindSpore](https://www.mindspore.cn/)
 
 # Finish
